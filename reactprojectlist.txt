@@ -1,0 +1,18 @@
+Beginner Projects
+1. Counter App
+2. Todo App
+3. Notes App
+4. Calculator
+5. Weather App
+Intermediate Projects
+1. Movie App
+2. Ecommerce Frontend
+3. Blog App
+4. Quiz App
+5. Expense Tracker
+Advanced Projects
+1. Full Ecommerce App
+2. Admin Dashboard
+3. Chat App
+4. Project Management Tool
+5. Social Media App
